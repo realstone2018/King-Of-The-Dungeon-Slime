@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 32a54a00e4ec3874c8f5e39a499967f1
+timeCreated: 1508679160
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - tr: {instanceID: 0}
+  - monster_Red: {fileID: 1814832304101642, guid: 6e4c62802f3130842a4db07761aebc8a,
+      type: 2}
+  - monster_Green: {fileID: 1814832304101642, guid: 2ce5bfd404186bd4d94bb55bcca02983,
+      type: 2}
+  - monster_Blue: {fileID: 1434443568710956, guid: 6ccb6db4da278f743bd62f402554dfff,
+      type: 2}
+  - monster_Black: {fileID: 1777003561027160, guid: b042e8eb1b8511641a1bab9a0c3be913,
+      type: 2}
+  - slime_C: {instanceID: 0}
+  - slime_M: {instanceID: 0}
+  - slime_Y: {instanceID: 0}
+  - slime_R: {instanceID: 0}
+  - slime_G: {instanceID: 0}
+  - slime_B: {instanceID: 0}
+  - slime_Black: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

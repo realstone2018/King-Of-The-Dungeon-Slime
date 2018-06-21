@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slime_RemveVer6 - 복사본", "Assembly-CSharp.csproj", "{8CD0778F-2036-316D-C5C4-A086109C15B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slime_RemveVer6 - 복사본", "Assembly-CSharp-Editor.csproj", "{821A4C29-75D0-E86E-CEBF-A888E1AFBBC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CD0778F-2036-316D-C5C4-A086109C15B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CD0778F-2036-316D-C5C4-A086109C15B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CD0778F-2036-316D-C5C4-A086109C15B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CD0778F-2036-316D-C5C4-A086109C15B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{821A4C29-75D0-E86E-CEBF-A888E1AFBBC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821A4C29-75D0-E86E-CEBF-A888E1AFBBC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821A4C29-75D0-E86E-CEBF-A888E1AFBBC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821A4C29-75D0-E86E-CEBF-A888E1AFBBC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

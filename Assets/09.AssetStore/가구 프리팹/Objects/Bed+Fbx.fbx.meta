@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: c696a2a60b39c394da2f306b61e0bfb4
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Back
+    100002: Bed
+    100004: bed
+    100006: //RootNode
+    100008: Bed_1
+    100010: Boards
+    100012: CINEMA_4D_Editor
+    100014: Cloth_Surface
+    100016: Cloth_Surface_2
+    100018: Cube
+    100020: Cube_1
+    100022: Cube_10
+    100024: Cube_10_2
+    100026: Cube_11
+    100028: Cube_11_2
+    100030: Cube_12
+    100032: Cube_13
+    100034: Cube_14
+    100036: Cube_2
+    100038: Cube_2_2
+    100040: Cube_3
+    100042: Cube_3_2
+    100044: Cube_4
+    100046: Cube_4_2
+    100048: Cube_5
+    100050: Cube_5_2
+    100052: Cube_6
+    100054: Cube_6_2
+    100056: Cube_7
+    100058: Cube_7_2
+    100060: Cube_8
+    100062: Cube_8_2
+    100064: Cube_9
+    100066: Cube_9_2
+    100068: Disc
+    100070: Disc_1
+    100072: Disc_1_2
+    100074: Disc_1_3
+    100076: Disc_1_4
+    100078: Disc_2
+    100080: Disc_2_2
+    100082: Disc_3
+    100084: Disc_4
+    100086: End
+    100088: Frame_
+    100090: pillow_1
+    100092: pillow_1_1
+    100094: pillow_2
+    100096: pillow_2_1
+    100098: Plane
+    100100: Plane_2
+    100102: Post
+    100104: Post_2
+    100106: Post_3
+    100108: Post_4
+    100110: Side
+    100112: side
+    100114: Subdivision_Surface
+    100116: Subdivision_Surface_1
+    100118: Subdivision_Surface_2
+    100120: top
+    100122: top_2
+    400000: Back
+    400002: Bed
+    400004: bed
+    400006: //RootNode
+    400008: Bed_1
+    400010: Boards
+    400012: CINEMA_4D_Editor
+    400014: Cloth_Surface
+    400016: Cloth_Surface_2
+    400018: Cube
+    400020: Cube_1
+    400022: Cube_10
+    400024: Cube_10_2
+    400026: Cube_11
+    400028: Cube_11_2
+    400030: Cube_12
+    400032: Cube_13
+    400034: Cube_14
+    400036: Cube_2
+    400038: Cube_2_2
+    400040: Cube_3
+    400042: Cube_3_2
+    400044: Cube_4
+    400046: Cube_4_2
+    400048: Cube_5
+    400050: Cube_5_2
+    400052: Cube_6
+    400054: Cube_6_2
+    400056: Cube_7
+    400058: Cube_7_2
+    400060: Cube_8
+    400062: Cube_8_2
+    400064: Cube_9
+    400066: Cube_9_2
+    400068: Disc
+    400070: Disc_1
+    400072: Disc_1_2
+    400074: Disc_1_3
+    400076: Disc_1_4
+    400078: Disc_2
+    400080: Disc_2_2
+    400082: Disc_3
+    400084: Disc_4
+    400086: End
+    400088: Frame_
+    400090: pillow_1
+    400092: pillow_1_1
+    400094: pillow_2
+    400096: pillow_2_1
+    400098: Plane
+    400100: Plane_2
+    400102: Post
+    400104: Post_2
+    400106: Post_3
+    400108: Post_4
+    400110: Side
+    400112: side
+    400114: Subdivision_Surface
+    400116: Subdivision_Surface_1
+    400118: Subdivision_Surface_2
+    400120: top
+    400122: top_2
+    2300000: Back
+    2300002: Cube
+    2300004: Cube_1
+    2300006: Cube_10
+    2300008: Cube_10_2
+    2300010: Cube_11
+    2300012: Cube_11_2
+    2300014: Cube_12
+    2300016: Cube_13
+    2300018: Cube_14
+    2300020: Cube_2
+    2300022: Cube_2_2
+    2300024: Cube_3
+    2300026: Cube_3_2
+    2300028: Cube_4
+    2300030: Cube_4_2
+    2300032: Cube_5
+    2300034: Cube_5_2
+    2300036: Cube_6
+    2300038: Cube_6_2
+    2300040: Cube_7
+    2300042: Cube_7_2
+    2300044: Cube_8
+    2300046: Cube_8_2
+    2300048: Cube_9
+    2300050: Cube_9_2
+    2300052: Disc
+    2300054: Disc_1
+    2300056: Disc_1_2
+    2300058: Disc_1_3
+    2300060: Disc_1_4
+    2300062: Disc_2
+    2300064: Disc_2_2
+    2300066: Disc_3
+    2300068: Disc_4
+    2300070: Plane
+    2300072: Plane_2
+    2300074: Side
+    2300076: side
+    2300078: top
+    3300000: Back
+    3300002: Cube
+    3300004: Cube_1
+    3300006: Cube_10
+    3300008: Cube_10_2
+    3300010: Cube_11
+    3300012: Cube_11_2
+    3300014: Cube_12
+    3300016: Cube_13
+    3300018: Cube_14
+    3300020: Cube_2
+    3300022: Cube_2_2
+    3300024: Cube_3
+    3300026: Cube_3_2
+    3300028: Cube_4
+    3300030: Cube_4_2
+    3300032: Cube_5
+    3300034: Cube_5_2
+    3300036: Cube_6
+    3300038: Cube_6_2
+    3300040: Cube_7
+    3300042: Cube_7_2
+    3300044: Cube_8
+    3300046: Cube_8_2
+    3300048: Cube_9
+    3300050: Cube_9_2
+    3300052: Disc
+    3300054: Disc_1
+    3300056: Disc_1_2
+    3300058: Disc_1_3
+    3300060: Disc_1_4
+    3300062: Disc_2
+    3300064: Disc_2_2
+    3300066: Disc_3
+    3300068: Disc_4
+    3300070: Plane
+    3300072: Plane_2
+    3300074: Side
+    3300076: side
+    3300078: top
+    4300000: Cube
+    4300002: Cube_2
+    4300004: Cube_3
+    4300006: Cube_4
+    4300008: Cube_5
+    4300010: Plane
+    4300012: Plane_2
+    4300014: Cube_14
+    4300016: Cube_13
+    4300018: Cube_12
+    4300020: Cube_11
+    4300022: Cube_10
+    4300024: Cube_9
+    4300026: Cube_8
+    4300028: Cube_7
+    4300030: Cube_6
+    4300032: Cube_5_2
+    4300034: Cube_4_2
+    4300036: Cube_3_2
+    4300038: Cube_2_2
+    4300040: Cube_6_2
+    4300042: Cube_1
+    4300044: top
+    4300046: side
+    4300048: Side
+    4300050: Back
+    4300052: Disc_1
+    4300054: Cube_7_2
+    4300056: Disc
+    4300058: Disc_1_2
+    4300060: Cube_8_2
+    4300062: Disc_2
+    4300064: Disc_2_2
+    4300066: Cube_9_2
+    4300068: Disc_1_3
+    4300070: Cube_10_2
+    4300072: Disc_3
+    4300074: Disc_1_4
+    4300076: Cube_11_2
+    4300078: Disc_4
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch
+    second: {fileID: 2100000, guid: 8b63928b4aa14dd42a50c2975779f017, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch.1
+    second: {fileID: 2100000, guid: 9c2b6f36ab919ae43ba00a21dafb77b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch.10
+    second: {fileID: 2100000, guid: c1e77fa2331a8b2489ceb5fa4262c59f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch.11
+    second: {fileID: 2100000, guid: c0d189b005dd640419d8ccaf0e9e3a04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch.12
+    second: {fileID: 2100000, guid: 894cb379353cd3e42b120a1645b874fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch.13
+    second: {fileID: 2100000, guid: 8d7db3b0bf4e3ca40a76ee5c0b502c4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch.14
+    second: {fileID: 2100000, guid: 3b91f2d23cac83f4f897ad5400c410cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch.15
+    second: {fileID: 2100000, guid: c1613c608cae3fe4181dd371b4c85f05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch.16
+    second: {fileID: 2100000, guid: 19e2344123bb14f448360c5e14293b0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch.17
+    second: {fileID: 2100000, guid: 8b340c55888f34241a8c5bf9911c2ab7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch.18
+    second: {fileID: 2100000, guid: c55f093b105227c4b907e809fb6f8850, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch.2
+    second: {fileID: 2100000, guid: 92929eea48480e543ad73a47adf255ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch.20
+    second: {fileID: 2100000, guid: a9a7c80aea9ca5a4daac20ad92c11ec2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch.23
+    second: {fileID: 2100000, guid: cb873f18b0abe744e86867ff35ebcfa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch.25
+    second: {fileID: 2100000, guid: ded4aeffe0bae8a41a1179247ad3eb0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch.26
+    second: {fileID: 2100000, guid: 1f564fe4e727bb147a234cf93c26dde4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch.28
+    second: {fileID: 2100000, guid: 50ec2016c7d90314185da2b1e2517727, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch.3
+    second: {fileID: 2100000, guid: 85e4113fec407bb4b886e869b8ec0c6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch.31
+    second: {fileID: 2100000, guid: e9ac44773497ed74f9d161fdf83fa5a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch.4
+    second: {fileID: 2100000, guid: ca5c42e97d5c10f469a342e51419b182, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch.5
+    second: {fileID: 2100000, guid: 32b6a39f92d3d894fbff2a0ea14aed4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch.6
+    second: {fileID: 2100000, guid: f28866cf4cc6b674b8fcc400397b6c69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch.7
+    second: {fileID: 2100000, guid: ea0fc985979cec040ae84cda028eddec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch.8
+    second: {fileID: 2100000, guid: 8c79d7f8c21061c4e8cefac5537a273a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch.9
+    second: {fileID: 2100000, guid: 0dcd2b1afe3cab24d8ae0100b93b70f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric 12
+    second: {fileID: 2100000, guid: cad8159a37aba0b44bcc22493ec539f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric 12.5
+    second: {fileID: 2100000, guid: db2e929ad0a31cc49a04fe306abde1ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.1
+    second: {fileID: 2100000, guid: ff1eec1c8492bb9409402898dce5be27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.2.2
+    second: {fileID: 2100000, guid: 034d9a86a4a47ae4eb268eb6888cee1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.2.3
+    second: {fileID: 2100000, guid: 99547e58c795fd447b4c270b51ea61f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.3
+    second: {fileID: 2100000, guid: 1693545a94986a84dbf3897beba0b5e1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

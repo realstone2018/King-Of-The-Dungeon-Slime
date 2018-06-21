@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slime_RemveVer", "Slime_RemveVer.csproj", "{DBED9D1B-655C-92C3-0D56-FFA7EB1904EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slime_RemveVer.Editor", "Slime_RemveVer.Editor.csproj", "{1533A353-CDE9-0CFF-1A74-9D49782A493A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBED9D1B-655C-92C3-0D56-FFA7EB1904EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBED9D1B-655C-92C3-0D56-FFA7EB1904EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBED9D1B-655C-92C3-0D56-FFA7EB1904EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBED9D1B-655C-92C3-0D56-FFA7EB1904EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1533A353-CDE9-0CFF-1A74-9D49782A493A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1533A353-CDE9-0CFF-1A74-9D49782A493A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1533A353-CDE9-0CFF-1A74-9D49782A493A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1533A353-CDE9-0CFF-1A74-9D49782A493A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

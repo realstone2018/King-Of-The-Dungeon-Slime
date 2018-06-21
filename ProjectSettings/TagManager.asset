@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BULLET_YELLOW
+  - BULLET_CYAN
+  - BULLET_MAGENTA
+  - SLIME_YELLOW
+  - SLIME_MAGENTA
+  - SLIME_CYAN
+  - Fire
+  - CIRCLEAOE_CHARGE
+  - SQUAREAOE_CHARGE
+  - SLIME_GREEN
+  - SLIME_RED
+  - SLIME_BLUE
+  - MONSTER
+  - SLIME_BLACK
+  - BULLET_RED
+  - BULLET_GREEN
+  - BULLET_BLUE
+  - BULLET_BLACK
+  - SQUAREAOE_ARROW
+  - AOE_CYAN
+  - AOE_MAGENTA
+  - AOE_YELLOW
+  - AOE_RED
+  - AOE_GREEN
+  - AOE_BLUE
+  - AOE_BLACK
+  - Trap
+  - DropStake
+  - GHOST
+  - STAGE1_OBJECT
+  - STAGE2_OBJECT
+  - STAGE3_OBJECT
+  - STAGE4_OBJECT
+  - STAGE4_CENTER
+  - STAGE3_CENTER
+  - STAGE1_CENTER
+  - STAGE2_CENTER
+  - DIAMONDAOE_CHARGE
+  - HEXAGONAOE_CHARGE
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - SLIME_YELLOW
+  - SLIME_MAGENTA
+  - SLIME_CYAN
+  - BULLET_YELLOW
+  - BULLET_MAGENTA
+  - BULLET_CYAN
+  - clickLayer
+  - BULLET_RED
+  - BULLET_GREEN
+  - BULLET_BLUE
+  - BULLET_BLACK
+  - SLIME_RED
+  - SLIME_GREEN
+  - SLIME_BLUE
+  - SLIME_BLACK
+  - AirBack
+  - Boss
+  - GHOST
+  - GRAVE
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

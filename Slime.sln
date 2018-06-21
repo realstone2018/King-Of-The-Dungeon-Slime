@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slime", "Slime.csproj", "{6794D82E-9023-266F-C1AF-20A07FCA0048}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slime.Editor", "Slime.Editor.csproj", "{F2BE6EA0-3A19-C572-6333-945BA5AB3021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6794D82E-9023-266F-C1AF-20A07FCA0048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6794D82E-9023-266F-C1AF-20A07FCA0048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6794D82E-9023-266F-C1AF-20A07FCA0048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6794D82E-9023-266F-C1AF-20A07FCA0048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2BE6EA0-3A19-C572-6333-945BA5AB3021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2BE6EA0-3A19-C572-6333-945BA5AB3021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2BE6EA0-3A19-C572-6333-945BA5AB3021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2BE6EA0-3A19-C572-6333-945BA5AB3021}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

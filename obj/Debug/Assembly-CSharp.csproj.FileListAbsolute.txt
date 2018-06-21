@@ -1,0 +1,235 @@
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\Temp\bin\Debug\nunit.framework.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\Temp\bin\Debug\UnityEditor.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\Temp\bin\Debug\UnityEngine.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\Temp\bin\Debug\UnityEngine.xml
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\Temp\bin\Debug\UnityEditor.xml
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\Temp\bin\Debug\nunit.framework.xml
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\obj\Debug\Assembly-CSharp.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime\obj\Debug\Assembly-CSharp.pdb
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\Temp\bin\Debug\nunit.framework.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\Temp\bin\Debug\UnityEditor.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\Temp\bin\Debug\UnityEngine.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\Temp\bin\Debug\UnityEngine.xml
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\Temp\bin\Debug\UnityEditor.xml
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\Temp\bin\Debug\nunit.framework.xml
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\obj\Debug\Assembly-CSharp.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer\obj\Debug\Assembly-CSharp.pdb
+E:\Slime_RemveVer2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\Slime_RemveVer2\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+E:\Slime_RemveVer2\obj\Debug\Assembly-CSharp.dll
+E:\Slime_RemveVer2\obj\Debug\Assembly-CSharp.pdb
+E:\Slime_RemveVer2\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Slime_RemveVer2\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Slime_RemveVer2\Temp\bin\Debug\nunit.framework.dll
+E:\Slime_RemveVer2\Temp\bin\Debug\UnityEditor.dll
+E:\Slime_RemveVer2\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\Slime_RemveVer2\Temp\bin\Debug\UnityEngine.dll
+E:\Slime_RemveVer2\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\Slime_RemveVer2\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Slime_RemveVer2\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\Slime_RemveVer2\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\Slime_RemveVer2\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Slime_RemveVer2\Temp\bin\Debug\Mono.Cecil.dll
+E:\Slime_RemveVer2\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Slime_RemveVer2\Temp\bin\Debug\Unity.DataContract.dll
+E:\Slime_RemveVer2\Temp\bin\Debug\ExCSS.Unity.dll
+E:\Slime_RemveVer2\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\Slime_RemveVer2\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Slime_RemveVer2\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Slime_RemveVer2\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Slime_RemveVer2\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Slime_RemveVer2\Temp\bin\Debug\UnityEngine.xml
+E:\Slime_RemveVer2\Temp\bin\Debug\UnityEditor.xml
+E:\Slime_RemveVer2\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Slime_RemveVer2\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Slime_RemveVer2\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\Slime_RemveVer2\Temp\bin\Debug\nunit.framework.xml
+E:\Slime_RemveVer2\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\Slime_RemveVer2\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\Slime_RemveVer2\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\Temp\bin\Debug\nunit.framework.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\Temp\bin\Debug\UnityEditor.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\Temp\bin\Debug\UnityEngine.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\Temp\bin\Debug\UnityEngine.xml
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\Temp\bin\Debug\UnityEditor.xml
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\Temp\bin\Debug\nunit.framework.xml
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\obj\Debug\Assembly-CSharp.dll
+C:\Users\wlstj\Documents\MakeGameToUnity\Slime_RemveVer3\obj\Debug\Assembly-CSharp.pdb
+C:\Users\wlstj\Desktop\Slime_RemveVer4\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer4\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\wlstj\Desktop\Slime_RemveVer4\Temp\bin\Debug\nunit.framework.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer4\Temp\bin\Debug\UnityEditor.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer4\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer4\Temp\bin\Debug\UnityEngine.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer4\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer4\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer4\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer4\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer4\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer4\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer4\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer4\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer4\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer4\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer4\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer4\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer4\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer4\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer4\Temp\bin\Debug\UnityEngine.xml
+C:\Users\wlstj\Desktop\Slime_RemveVer4\Temp\bin\Debug\UnityEditor.xml
+C:\Users\wlstj\Desktop\Slime_RemveVer4\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\wlstj\Desktop\Slime_RemveVer4\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\wlstj\Desktop\Slime_RemveVer4\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\wlstj\Desktop\Slime_RemveVer4\Temp\bin\Debug\nunit.framework.xml
+C:\Users\wlstj\Desktop\Slime_RemveVer4\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\wlstj\Desktop\Slime_RemveVer4\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\wlstj\Desktop\Slime_RemveVer4\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\wlstj\Desktop\Slime_RemveVer4\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\wlstj\Desktop\Slime_RemveVer4\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\wlstj\Desktop\Slime_RemveVer4\obj\Debug\Assembly-CSharp.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer4\obj\Debug\Assembly-CSharp.pdb
+C:\Users\wlstj\Desktop\Slime_RemveVer5\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\wlstj\Desktop\Slime_RemveVer5\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\wlstj\Desktop\Slime_RemveVer5\obj\Debug\Assembly-CSharp.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer5\obj\Debug\Assembly-CSharp.pdb
+C:\Users\wlstj\Desktop\Slime_RemveVer5\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer5\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\wlstj\Desktop\Slime_RemveVer5\Temp\bin\Debug\nunit.framework.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer5\Temp\bin\Debug\UnityEditor.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer5\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer5\Temp\bin\Debug\UnityEngine.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer5\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer5\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer5\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer5\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer5\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer5\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer5\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer5\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer5\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer5\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer5\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer5\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer5\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer5\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\wlstj\Desktop\Slime_RemveVer5\Temp\bin\Debug\UnityEngine.xml
+C:\Users\wlstj\Desktop\Slime_RemveVer5\Temp\bin\Debug\UnityEditor.xml
+C:\Users\wlstj\Desktop\Slime_RemveVer5\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\wlstj\Desktop\Slime_RemveVer5\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\wlstj\Desktop\Slime_RemveVer5\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\wlstj\Desktop\Slime_RemveVer5\Temp\bin\Debug\nunit.framework.xml
+C:\Users\wlstj\Desktop\Slime_RemveVer5\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\wlstj\Desktop\Slime_RemveVer5\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\wlstj\Desktop\Slime_RemveVer5\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\obj\Debug\Assembly-CSharp.dll
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\obj\Debug\Assembly-CSharp.pdb
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\Temp\bin\Debug\Assembly-CSharp.dll
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\Temp\bin\Debug\nunit.framework.dll
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\Temp\bin\Debug\UnityEditor.dll
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\Temp\bin\Debug\UnityEngine.dll
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\Temp\bin\Debug\UnityEngine.UI.dll
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\Temp\bin\Debug\Mono.Cecil.dll
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\Temp\bin\Debug\Unity.DataContract.dll
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\Temp\bin\Debug\ExCSS.Unity.dll
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\Temp\bin\Debug\Unity.CecilTools.dll
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\Temp\bin\Debug\UnityEngine.xml
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\Temp\bin\Debug\UnityEditor.xml
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\Temp\bin\Debug\UnityEngine.UI.xml
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\Temp\bin\Debug\nunit.framework.xml
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\20121312 강진석 졸업작품\Slime_RemveVer6\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\유니티 프로젝트\20121312 강진석 졸업작품\Slime_RemveVer6\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\유니티 프로젝트\20121312 강진석 졸업작품\Slime_RemveVer6\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+E:\유니티 프로젝트\20121312 강진석 졸업작품\Slime_RemveVer6\obj\Debug\Assembly-CSharp.dll
+E:\유니티 프로젝트\20121312 강진석 졸업작품\Slime_RemveVer6\obj\Debug\Assembly-CSharp.pdb
